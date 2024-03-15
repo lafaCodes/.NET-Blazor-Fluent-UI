@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/rsn/Lafa.Codes/DevWorld/Blazor/lafa.codes/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/rsn/Lafa.Codes/DevWorld/Blazor/lafa.codes/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.lafa.codes.props",
+      "PackagePath": "build\\lafa.codes.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.lafa.codes.props",
+      "PackagePath": "buildMultiTargeting\\lafa.codes.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.lafa.codes.props",
+      "PackagePath": "buildTransitive\\lafa.codes.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.lafa.codes.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

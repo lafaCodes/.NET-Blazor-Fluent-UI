@@ -1,0 +1,28 @@
+﻿@page "/portfolio"
+
+@inject IJSRuntime JSRuntime
+@using Microsoft.FluentUI
+@* @using Microsoft.FluentUI.Button *@
+<PageTitle>Lafa.codes_</PageTitle>
+
+<h1>Welcome to My Portfolio</h1>
+
+@* @if (showDetails)
+{ *@
+    <div>
+        <h2>About Me</h2>
+        <p>I am a passionate developer excited about creating innovative solutions.</p>
+    </div>
+@* } *@
+
+@* <FluentUI.Button OnClick="@ToggleDetails">Toggle Details</FluentUI.Button> *@
+@* <Button OnClick="@ToggleDetails">Toggle Details</Button> *@
+
+@code {
+    private bool showDetails = false;
+
+    private void ToggleDetails()
+    {
+        showDetails = !showDetails;
+    }
+}

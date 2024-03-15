@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lafa.codes", "lafa.codes.csproj", "{AA38A466-D43B-4EC6-8947-855F4E3DD492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA38A466-D43B-4EC6-8947-855F4E3DD492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA38A466-D43B-4EC6-8947-855F4E3DD492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA38A466-D43B-4EC6-8947-855F4E3DD492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA38A466-D43B-4EC6-8947-855F4E3DD492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DBFE4D6-8E25-445E-991E-73AA20CF415A}
+	EndGlobalSection
+EndGlobal
